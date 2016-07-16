@@ -1,11 +1,7 @@
-/**
- * Created by Vidhya on 07-07-2016.
- */
-
 import java.io.*;
 import java.util.*;
 
-public class HorizontalLine {
+public class VerticalLine {
     public static void main(String[] args){
         int n,i;
         Scanner s = new Scanner(System.in);
@@ -15,4 +11,3 @@ public class HorizontalLine {
             System.out.println("*");
     }
 }
-
