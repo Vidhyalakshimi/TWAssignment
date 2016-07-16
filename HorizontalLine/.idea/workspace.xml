@@ -26,8 +26,8 @@
       <file leaf-file-name="HorizontalLine.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HorizontalLine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="364">
+              <caret line="20" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -563,12 +563,12 @@
       <option name="presentableId" value="Default" />
       <updated>1467869543352</updated>
       <workItem from="1467869556474" duration="779000" />
-      <workItem from="1468643843548" duration="738000" />
+      <workItem from="1468643843548" duration="2676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1517000" />
+    <option name="totallyTimeSpent" value="3455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="20" width="1400" height="980" extended-state="0" />
@@ -634,8 +634,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HorizontalLine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="364">
+          <caret line="20" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
