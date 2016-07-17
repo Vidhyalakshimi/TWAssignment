@@ -1,12 +1,9 @@
-/**
- * Created by Vidhya on 07-07-2016.
- */
 
 import java.io.*;
 import java.util.*;
-import java.lang.Math.*;
 
-public class HorizontalLine {
+public class PrimeFactors {
+
     public static void generate(int n) {
         while (n % 2 == 0) {
             System.out.print("2 ");
